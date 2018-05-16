@@ -12,6 +12,6 @@ public class MainActivity extends Activity {
     }
 
     public int addThem(int v1,int v2){
-        return v1+v2;
+        return v1+v2+v1;
     }
 }
